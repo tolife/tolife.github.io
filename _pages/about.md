@@ -34,12 +34,12 @@ His research focuses on **storage systems, cloud computing and system for AI**, 
 <span class="anchor" id="-news"></span> -->
 
 # 🔥 News
-- *Oct. 2026:* &nbsp;🎉🎉 Paper **SwiftBaton** appeared at **SIGOPS ATC 2026**.
-- *Mar. 2026:* &nbsp;🎉🎉 Paper **Varuna** appeared at arXiv.
-- *Feb. 2026:* &nbsp;🎉🎉 Paper **DMTree** appeared at **USENIX FAST 2026**.
-- *Aug. 2025:* &nbsp;🎉🎉 He joined the School of Artificial Intelligence at **Ningbo University** as a assitent professor.
-- *Jun. 2024:*  &nbsp;🎉🎉 Paper **AdaptMD** appeared in **IEEE Transactions on Computers**.
-- *Dec. 2023:* &nbsp;🎉🎉 He received his Ph.D. from **USTC** and joined **Huawei**.
+- *2026.10:* &nbsp;🎉🎉 Paper **SwiftBaton** appeared at **SIGOPS ATC 2026**.
+- *2026.03:* &nbsp;🎉🎉 Paper **Varuna** appeared at arXiv.
+- *2026.02:* &nbsp;🎉🎉 Paper **DMTree** appeared at **USENIX FAST 2026**.
+- *2025.08:* &nbsp;🎉🎉 He joined the School of Artificial Intelligence at **Ningbo University** as a assitent professor.
+- *2024.06:*  &nbsp;🎉🎉 Paper **AdaptMD** appeared in **IEEE Transactions on Computers**.
+- *2023.12:* &nbsp;🎉🎉 He received his Ph.D. from **USTC** and joined **Huawei**.
 
 
 # 📝 Publications 
