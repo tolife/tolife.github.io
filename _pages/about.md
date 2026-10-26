@@ -17,10 +17,21 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+Lulu Yao is a assistent professor in [School of Artificial Intelligence at Ningbo University](https://ai.nbu.edu.cn/index.htm). Before that, he was a senior engineer in the OS kernel laboratory at Huawei 2012 Lab.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+He received his Ph.D. degree in [Computer Science and Technology](https://cs.ustc.edu.cn/main.htm) from the [University of Science and Technology of China (USTC)](https://www.ustc.edu.cn/) in December 2023, where he worked in the [Advanced Data Systems Laboratory (ADSL)](https://adsl.ustc.edu.cn/main.htm), advised by Prof. **Yinlong Xu** and Prof. **[Yongkun Li](http://staff.ustc.edu.cn/~ykli/)**. He received his Bachelor's degree in Computer Science and Technology from Zhengzhou University in June 2018.
+His research focuses on **storage systems, cloud computing and system for AI**, particularly memory management and resource management in cloud and AI systems.
 
+
+<!-- For research discussions and collaborations, please contact me at **[yaolulu@nbu.edu.cn](mailto:yaolulu@nbu.edu.cn)**. You can also find my publications on **[Google Scholar](https://scholar.google.com/citations?user=S85IlTMAAAAJ)**. -->
+
+<!-- ## Research Interests
+
+- **Operating-system memory management:** memory deduplication, large pages and folios, NUMA-aware policies, and memory reclamation.
+- **Cloud and virtualized systems:** memory overcommitment, resource allocation, container scheduling, and application performance.
+- **Disaggregated memory systems:** memory sharing and reuse, remote memory access, and compute-side collaboration.
+
+<span class="anchor" id="-news"></span> -->
 
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -83,7 +94,7 @@ My research interest includes neural machine translation and computer vision. I 
   </div>
 </div>
 
-## Other Publications
+<!-- ## Other Publications -->
 - `ATC 2026 · Accepted` [SwiftBaton: Dependency-Aware Staged Reconstruction for Live Migration of Stateful Containers](https://sigops.org/s/conferences/atc/2026/accepted.html), Xianzhi Zhu, Gonggu Chen, Yancan Mao, Richard Ma, **Lulu Yao**, Yongkun Li, Yinlong Xu, John C. S. Lui
 - `ICPADS 2023` [CARE: A Cost-AwaRe Eviction Strategy for Improving Throughput in Cloud Environments](https://doi.org/10.1109/ICPADS60453.2023.00305), Xiyuan Liang†, **Lulu Yao†**, Si Wu, Yongkun Li, Yinlong Xu
 - `ICPP 2023` [On Optimizing Traffic Scheduling for Multi-replica Containerized Microservices](https://doi.org/10.1145/3605573.3605646), Xianzhi Zhu, Yongkun Li, **Lulu Yao**, Zhihao Qi, Yinlong Xu, Pengcheng Wang, Weiguang Wang, Xia Zhu [![](https://img.shields.io/github/stars/sirius8050/OptTraffic?style=social&label=Code+Stars)](https://github.com/sirius8050/OptTraffic)
