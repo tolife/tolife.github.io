@@ -34,10 +34,10 @@ His research focuses on **storage systems, cloud computing and system for AI**, 
 <span class="anchor" id="-news"></span> -->
 
 # 🔥 News
-- *2026.10:* &nbsp;🎉🎉 Paper **SwiftBaton** appeared at **SIGOPS ATC 2026**.
-- *2026.03:* &nbsp;🎉🎉 Paper **Varuna** appeared at arXiv.
+- *2026.10:* &nbsp;🎉🎉 Paper **SwiftBaton** has been accepted to **SIGOPS ATC 2026**.
+- *2026.03:* &nbsp;🎉🎉 Paper **Varuna** was posted on arXiv.
 - *2026.02:* &nbsp;🎉🎉 Paper **DMTree** appeared at **USENIX FAST 2026**.
-- *2025.08:* &nbsp;🎉🎉 He joined the School of Artificial Intelligence at **Ningbo University** as a assitent professor.
+- *2025.08:* &nbsp;🎉🎉 He joined the School of Artificial Intelligence at **Ningbo University** as an assistant professor.
 - *2024.06:*  &nbsp;🎉🎉 Paper **AdaptMD** appeared in **IEEE Transactions on Computers**.
 - *2023.12:* &nbsp;🎉🎉 He received his Ph.D. from **USTC** and joined **Huawei**.
 
@@ -127,7 +127,7 @@ His research focuses on **storage systems, cloud computing and system for AI**, 
   </div>
 </div>
 
-<span class="anchor" id="-honors-and-awards"></span>
+<!-- <span class="anchor" id="-honors-and-awards"></span> -->
 # 🎖 Honors and Awards
 - *2025.05* Presidential Personal Award (总裁个人奖), Huawei.
 - *2024.12* Future Star (明日之星), Huawei.
@@ -137,12 +137,12 @@ His research focuses on **storage systems, cloud computing and system for AI**, 
 - *2017.12* Yisheng Scholarship.
 - *2015.10* National Encouragement Scholarship.
 
-<span class="anchor" id="-educations"></span>
+<!-- <span class="anchor" id="-educations"></span> -->
 # 📖 Educations
 - *2018.09 - 2023.12*, Ph.D. degree, Computer Science and Technology; ADSL lab, University of Science and Technology of China (Advisors: Prof. Yinlong Xu & Prof. [Yongkun Li](http://staff.ustc.edu.cn/~ykli/)).
 - *2014.09 - 2018.06*, B.S. degree, Computer Science and Technology; Zhengzhou University. 
 
-<span class="anchor" id="-invited-talks"></span>
+<!-- <span class="anchor" id="-invited-talks"></span> -->
 # 💬 Invited Talks
 - *2026.09*, Invited talk on memory management, **The 32th CCF National
 Conference of Information Storage 2026, NCIS 2026**, Tianjin, China. 
@@ -150,7 +150,7 @@ Conference of Information Storage 2026, NCIS 2026**, Tianjin, China.
 - *2021.08*, Paper presentation, **ICPP 2021**, online.
 
 
-<span class="anchor" id="-work-experience"></span>
+<!-- <span class="anchor" id="-work-experience"></span> -->
 # 💻 Work Experience
 - *2025.08 - now*, Assistent Professor, School of Artificial Intelligence, Ningbo University.
 - *2023.12 - 2025.07*, Research Scientist, Huawei 2012 Lab.
