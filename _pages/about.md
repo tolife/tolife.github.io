@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lulu Yao is a assistent professor in [School of Artificial Intelligence at Ningbo University](https://ai.nbu.edu.cn/index.htm). Before that, he was a senior engineer in the OS kernel laboratory at Huawei 2012 Lab.
+Lulu Yao is a assistent professor in [School of Artificial Intelligence at Ningbo University](https://ai.nbu.edu.cn/index.htm). Before that, he was a research scientist in the OS kernel laboratory at Huawei 2012 Lab.
 
 He received his Ph.D. degree in [Computer Science and Technology](https://cs.ustc.edu.cn/main.htm) from the [University of Science and Technology of China (USTC)](https://www.ustc.edu.cn/) in December 2023, where he worked in the [Advanced Data Systems Laboratory (ADSL)](https://adsl.ustc.edu.cn/main.htm), advised by Prof. **Yinlong Xu** and Prof. **[Yongkun Li](http://staff.ustc.edu.cn/~ykli/)**. He received his Bachelor's degree in Computer Science and Technology from Zhengzhou University in June 2018.
 His research focuses on **storage systems, cloud computing and system for AI**, particularly memory management and resource management in cloud and AI systems.
@@ -34,8 +34,13 @@ His research focuses on **storage systems, cloud computing and system for AI**, 
 <span class="anchor" id="-news"></span> -->
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *Oct. 2026:* &nbsp;🎉🎉 Paper **SwiftBaton** appeared at **SIGOPS ATC 2026**.
+- *Mar. 2026:* &nbsp;🎉🎉 Paper **Varuna** appeared at arXiv.
+- *Feb. 2026:* &nbsp;🎉🎉 Paper **DMTree** appeared at **USENIX FAST 2026**.
+- *Aug. 2025:* &nbsp;🎉🎉 He joined the School of Artificial Intelligence at **Ningbo University** as a assitent professor.
+- *Jun. 2024:*  &nbsp;🎉🎉 Paper **AdaptMD** appeared in **IEEE Transactions on Computers**.
+- *Dec. 2023:* &nbsp;🎉🎉 He received his Ph.D. from **USTC** and joined **Huawei**.
+
 
 # 📝 Publications 
 ## Selected Papers
@@ -95,10 +100,10 @@ His research focuses on **storage systems, cloud computing and system for AI**, 
 </div>
 
 <!-- ## Other Publications -->
-- `ATC 2026 · Accepted` [SwiftBaton: Dependency-Aware Staged Reconstruction for Live Migration of Stateful Containers](https://sigops.org/s/conferences/atc/2026/accepted.html), Xianzhi Zhu, Gonggu Chen, Yancan Mao, Richard Ma, **Lulu Yao**, Yongkun Li, Yinlong Xu, John C. S. Lui
-- `ICPADS 2023` [CARE: A Cost-AwaRe Eviction Strategy for Improving Throughput in Cloud Environments](https://doi.org/10.1109/ICPADS60453.2023.00305), Xiyuan Liang†, **Lulu Yao†**, Si Wu, Yongkun Li, Yinlong Xu
-- `ICPP 2023` [On Optimizing Traffic Scheduling for Multi-replica Containerized Microservices](https://doi.org/10.1145/3605573.3605646), Xianzhi Zhu, Yongkun Li, **Lulu Yao**, Zhihao Qi, Yinlong Xu, Pengcheng Wang, Weiguang Wang, Xia Zhu [![](https://img.shields.io/github/stars/sirius8050/OptTraffic?style=social&label=Code+Stars)](https://github.com/sirius8050/OptTraffic)
-- `ICPP 2021` [Progressive Memory Adjustment with Performance Guarantee in Virtualized Systems](https://doi.org/10.1145/3472456.3472491), **Lulu Yao**, Yongkun Li, Jiawei Li, Weijie Wu, Yinlong Xu
+- ``ATC 2026 · Accepted`` [SwiftBaton: Dependency-Aware Staged Reconstruction for Live Migration of Stateful Containers](https://sigops.org/s/conferences/atc/2026/accepted.html), Xianzhi Zhu, Gonggu Chen, Yancan Mao, Richard Ma, **Lulu Yao**, Yongkun Li, Yinlong Xu, John C. S. Lui
+- ``ICPADS 2023`` [CARE: A Cost-AwaRe Eviction Strategy for Improving Throughput in Cloud Environments](https://doi.org/10.1109/ICPADS60453.2023.00305), Xiyuan Liang†, **Lulu Yao†**, Si Wu, Yongkun Li, Yinlong Xu
+- ``ICPP 2023`` [On Optimizing Traffic Scheduling for Multi-replica Containerized Microservices](https://doi.org/10.1145/3605573.3605646), Xianzhi Zhu, Yongkun Li, **Lulu Yao**, Zhihao Qi, Yinlong Xu, Pengcheng Wang, Weiguang Wang, Xia Zhu [![](https://img.shields.io/github/stars/sirius8050/OptTraffic?style=social&label=Code+Stars)](https://github.com/sirius8050/OptTraffic)
+- ``ICPP 2021`` [Progressive Memory Adjustment with Performance Guarantee in Virtualized Systems](https://doi.org/10.1145/3472456.3472491), **Lulu Yao**, Yongkun Li, Jiawei Li, Weijie Wu, Yinlong Xu
 
 † Equal contribution.
 
@@ -124,19 +129,32 @@ His research focuses on **storage systems, cloud computing and system for AI**, 
 
 
 # 🎖 Honors and Awards
-- *2025.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.05* Presidential Personal Award (总裁个人奖), Huawei.
+- *2024.12* Future Star (明日之星), Huawei.
+- *2022.12* Suzhou Yucai Scholarship.
+- *2018.06* Outstanding Graduate of Henan Province.
+- *2018.06* Outstanding Graduate of Zhengzhou University.
+- *2017.12* Yisheng Scholarship.
+- *2015.10* National Encouragement Scholarship.
 
 # 📖 Educations
 - *2018.09 - 2023.12*, Ph.D. degree, Computer Science and Technology; ADSL lab, University of Science and Technology of China (Advisors: Prof. Yinlong Xu & Prof. [Yongkun Li](http://staff.ustc.edu.cn/~ykli/)).
 - *2014.09 - 2018.06*, B.S. degree, Computer Science and Technology; Zhengzhou University. 
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2026.09*, Invited talk on memory management, **The 32th CCF National
+Conference of Information Storage 2026, NCIS 2026**, Tianjin, China. 
+- *2023.01*, Invited talk on memory deduplication, **Huawei Cloud**, online.
+- *2021.08*, Paper presentation, **ICPP 2021**, online.
+
+
+- **Sep. 2026:** Invited talk on memory management, **The 32th CCF National
+Conference of Information Storage 2026, NCIS 2026**, Tianjin, China.
+- **Jan. 2023:** Invited talk on memory deduplication, **Huawei Cloud**, online.
+- **Aug. 2021:** Paper presentation, **ICPP 2021**, online.
 
 # 💻 Work Experience
-- *2025.08 - now:*, Assistent Professor, School of Artificial Intelligence, Ningbo University.
-- *2023.12 - 2025.07:*, Research Scientist, Huawei 2012 lab.
-- *2021.03 - 2021.06:*, Research Intern, Huawei 2012 Lab.
-- *2019.03 - 2019.06:*, Research Intern, [The Illinois Advanced Research Center at Singapore Ltd. (Illinois ARCS)](https://illinois-arcs.edu.sg).
+- *2025.08 - now*, Assistent Professor, School of Artificial Intelligence, Ningbo University.
+- *2023.12 - 2025.07*, Research Scientist, Huawei 2012 Lab.
+- *2021.03 - 2021.06*, Research Intern, Huawei 2012 Lab.
+- *2019.03 - 2019.06*, Research Intern, [The Illinois Advanced Research Center at Singapore Ltd. (Illinois ARCS)](https://illinois-arcs.edu.sg).
