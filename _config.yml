@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Lulu Yao(姚路路) - Homepage"
+title                    : "Lulu Yao(姚路路)"
 description              : "Assistant Professor at NBU"
 repository               : "tolife/tolife.github.io"
 google_scholar_stats_use_cdn : true
