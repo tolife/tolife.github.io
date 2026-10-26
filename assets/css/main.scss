@@ -107,3 +107,76 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
+
+/* Publication layout */
+.paper-box.publication-card .paper-box-image,
+.paper-box.publication-card .paper-box-text {
+    min-width: 0;
+    width: 100%;
+    max-width: 100%;
+}
+
+.paper-box.publication-card .paper-box-image {
+    order: 1;
+}
+
+.paper-box.publication-card .paper-box-text {
+    order: 2;
+    padding-left: 0;
+}
+
+/* Constrain the image wrapper and position the venue badge */
+.paper-box.publication-card .publication-visual {
+    position: relative;
+    width: 100%;
+    min-width: 0;
+    padding-top: 1.7em;
+}
+
+.paper-box.publication-card .publication-visual>a {
+    display: block;
+}
+
+.paper-box.publication-card .paper-box-image img {
+    display: block;
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+    object-fit: contain;
+}
+
+.paper-box.publication-card .badge {
+    top: 0;
+    left: 0;
+    margin: 0;
+}
+
+/* Allow paper links to wrap */
+.paper-box.publication-card .publication-links {
+    display: flex;
+    flex-wrap: wrap;
+    gap: .4em;
+}
+
+.paper-box.publication-card .publication-links a {
+    display: inline-block;
+    padding: .15em .5em;
+    border: 1px solid #c7d8e5;
+    border-radius: 3px;
+    text-decoration: none;
+}
+
+/* Tablet and desktop: image and text side by side */
+@media (min-width: 48em) {
+    .paper-box.publication-card .paper-box-image {
+        flex: 0 0 38%;
+        max-width: 38%;
+    }
+
+    .paper-box.publication-card .paper-box-text {
+        flex: 0 0 62%;
+        max-width: 62%;
+        padding-left: 1.5em;
+    }
+}
