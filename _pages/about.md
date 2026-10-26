@@ -27,32 +27,105 @@ My research interest includes neural machine translation and computer vision. I 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📝 Publications 
+## Selected Papers
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<div class="paper-box publication-card" id="paper-adaptmd">
+  <div class="paper-box-image">
+    <div class="publication-visual">
+      <span class="badge">TC 2024</span>
+      <a href="images/papers/adaptmd.png" aria-label="View the adaptmd paper figure">
+        <img src="images/papers/adaptmd.png" alt="AdaptMD: Balancing Space and Performance in NUMA Architectures with Adaptive Memory Deduplication — system overview from the original paper" loading="lazy" decoding="async">
+      </a>
+    </div>
+  </div>
+  <div class="paper-box-text">
+    <h3 class="publication-title"><a href="https://doi.org/10.1109/TC.2024.3375592">AdaptMD: Balancing Space and Performance in NUMA Architectures with Adaptive Memory Deduplication</a></h3>
+    <p class="publication-authors"><strong>Lulu Yao</strong>, Yongkun Li, Patrick P. C. Lee, Xiaoyang Wang, and Yinlong Xu.</p>
+    <p class="publication-venue"><em>IEEE Transactions on Computers, 73(6): 1588–1602, 2024.</em> <span class="publication-rank">[CCF-A]</span></p>
+    <p class="publication-links"><a href="https://doi.org/10.1109/TC.2024.3375592">Paper</a><a href="https://www.cse.cuhk.edu.hk/~pclee/www/pubs/tc24adaptmd.pdf">PDF</a><a href="files/bibtex/adaptmd.bib">BibTeX</a></p>
+    <p class="publication-summary">NUMA-aware memory deduplication that combines page hotness awareness and similarity-based application placement.</p>
+  </div>
 </div>
+
+<div class="paper-box publication-card" id="paper-smartmd">
+  <div class="paper-box-image">
+    <div class="publication-visual">
+      <span class="badge">TC 2023</span>
+      <a href="images/papers/smartmd.png" aria-label="View the smartmd paper figure">
+        <img src="images/papers/smartmd.png" alt="Towards High Performance and Efficient Memory Deduplication via Mixed Pages — system overview from the original paper" loading="lazy" decoding="async">
+      </a>
+    </div>
+  </div>
+  <div class="paper-box-text">
+    <h3 class="publication-title"><a href="https://doi.org/10.1109/TC.2022.3191742">Towards High Performance and Efficient Memory Deduplication via Mixed Pages</a></h3>
+    <p class="publication-authors"><strong>Lulu Yao</strong>, Yongkun Li, Fan Guo, Si Wu, Yinlong Xu, and John C. S. Lui.</p>
+    <p class="publication-venue"><em>IEEE Transactions on Computers, 72(4): 926–940, 2023.</em> <span class="publication-rank">[CCF-A]</span></p>
+    <p class="publication-links"><a href="https://doi.org/10.1109/TC.2022.3191742">Paper</a><a href="https://www.cse.cuhk.edu.hk/~cslui/PUBLICATION/TC-23.pdf">PDF</a><a href="https://github.com/ustcadsl/SmartMD">Code (SmartMD)</a><a href="files/bibtex/smartmd.bib">BibTeX</a></p>
+    <p class="publication-summary">SmartMD and SmartMD+ coordinate memory deduplication with selective large-page splitting and reconstruction.</p>
+  </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class="paper-box publication-card" id="paper-dmtree">
+  <div class="paper-box-image">
+    <div class="publication-visual">
+      <span class="badge">FAST 2026</span>
+      <a href="images/papers/dmtree.png" aria-label="View the dmtree paper figure">
+        <img src="images/papers/dmtree.png" alt="DMTree: Towards Efficient Tree Indexing on Disaggregated Memory via Compute-side Collaborative Design — system overview from the original paper" loading="lazy" decoding="async">
+      </a>
+    </div>
+  </div>
+  <div class="paper-box-text">
+    <h3 class="publication-title"><a href="https://www.usenix.org/conference/fast26/presentation/wei">DMTree: Towards Efficient Tree Indexing on Disaggregated Memory via Compute-side Collaborative Design</a></h3>
+    <p class="publication-authors">Guoli Wei, Yongkun Li, Haoze Song, Tao Li, <strong>Lulu Yao</strong>, Yinlong Xu, and Heming Cui.</p>
+    <p class="publication-venue"><em>24th USENIX Conference on File and Storage Technologies, 2026.</em> <span class="publication-rank">[CCF-A]</span></p>
+    <p class="publication-links"><a href="https://www.usenix.org/conference/fast26/presentation/wei">Paper</a><a href="https://www.usenix.org/system/files/fast26-wei.pdf">PDF</a><a href="https://github.com/muouim/DMTree">Code</a><a href="https://github.com/muouim/aefast26">Artifact</a><a href="files/bibtex/dmtree.bib">BibTeX</a></p>
+    <p class="publication-summary">A collaborative compute-side design for tree indexes on disaggregated memory.</p>
+  </div>
+</div>
+
+## Other Publications
+- `ATC 2026 · Accepted` [SwiftBaton: Dependency-Aware Staged Reconstruction for Live Migration of Stateful Containers](https://sigops.org/s/conferences/atc/2026/accepted.html), Xianzhi Zhu, Gonggu Chen, Yancan Mao, Richard Ma, **Lulu Yao**, Yongkun Li, Yinlong Xu, John C. S. Lui
+- `ICPADS 2023` [CARE: A Cost-AwaRe Eviction Strategy for Improving Throughput in Cloud Environments](https://doi.org/10.1109/ICPADS60453.2023.00305), Xiyuan Liang†, **Lulu Yao†**, Si Wu, Yongkun Li, Yinlong Xu
+- `ICPP 2023` [On Optimizing Traffic Scheduling for Multi-replica Containerized Microservices](https://doi.org/10.1145/3605573.3605646), Xianzhi Zhu, Yongkun Li, **Lulu Yao**, Zhihao Qi, Yinlong Xu, Pengcheng Wang, Weiguang Wang, Xia Zhu [![](https://img.shields.io/github/stars/sirius8050/OptTraffic?style=social&label=Code+Stars)](https://github.com/sirius8050/OptTraffic)
+- `ICPP 2021` [Progressive Memory Adjustment with Performance Guarantee in Virtualized Systems](https://doi.org/10.1145/3472456.3472491), **Lulu Yao**, Yongkun Li, Jiawei Li, Weijie Wu, Yinlong Xu
+
+† Equal contribution.
+
+## Preprints
+
+<div class="paper-box publication-card" id="paper-varuna">
+  <div class="paper-box-image">
+    <div class="publication-visual">
+      <span class="badge preprint">arXiv 2026</span>
+      <a href="images/papers/varuna.png" aria-label="View the varuna paper figure">
+        <img src="images/papers/varuna.png" alt="Varuna: Enabling Failure-Type Aware RDMA Failover — system overview from the original paper" loading="lazy" decoding="async">
+      </a>
+    </div>
+  </div>
+  <div class="paper-box-text">
+    <h3 class="publication-title"><a href="https://arxiv.org/abs/2603.28001">Varuna: Enabling Failure-Type Aware RDMA Failover</a></h3>
+    <p class="publication-authors">Xiaoyang Wang, Yongkun Li, <strong>Lulu Yao</strong>, Guoli Wei, Longcheng Yang, Yinlong Xu, Weiqing Kong, Weiguang Wang, Peng Dong, and Bingyang Liu.</p>
+    <p class="publication-venue"><em>arXiv:2603.28001, 2026. Preprint.</em></p>
+    <p class="publication-links"><a href="https://arxiv.org/abs/2603.28001">arXiv</a><a href="https://arxiv.org/pdf/2603.28001">PDF</a><a href="https://github.com/Plasticinew/Varuna">Code</a><a href="files/bibtex/varuna.bib">BibTeX</a></p>
+    <p class="publication-summary">Failure-type-aware RDMA failover using completion logs, extended operation status, and lightweight backup connections.</p>
+  </div>
+</div>
+
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2018.09 - 2023.12*, Ph.D. degree, Computer Science and Technology; ADSL lab, University of Science and Technology of China (Advisors: Prof. Yinlong Xu & Prof. [Yongkun Li](http://staff.ustc.edu.cn/~ykli/)).
+- *2014.09 - 2018.06*, B.S. degree, Computer Science and Technology; Zhengzhou University. 
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 💻 Work Experience
+- *2025.08 - now:*, Assistent Professor, School of Artificial Intelligence, Ningbo University.
+- *2023.12 - 2025.07:*, Research Scientist, Huawei 2012 lab.
+- *2021.03 - 2021.06:*, Research Intern, Huawei 2012 Lab.
+- *2019.03 - 2019.06:*, Research Intern, [The Illinois Advanced Research Center at Singapore Ltd. (Illinois ARCS)](https://illinois-arcs.edu.sg).

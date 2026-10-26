@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Lulu Yao Homepage"
-description              : "Here is Lulu Yao (姚路路)'s homepage, welcome!"
+description              : "Assistant Professor at Ningbo University, China"
 repository               : "tolife/tolife.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -22,8 +22,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Lulu Yao (姚路路)"
-  avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
+  avatar           : "images/avatar.jpg"
+  bio              : "Ningbo University"
   location         : "Ningbo, China"
   employer         :
   pubmed           : 
