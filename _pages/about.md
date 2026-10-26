@@ -129,13 +129,13 @@ His research focuses on **storage systems, cloud computing and system for AI**, 
 
 <!-- <span class="anchor" id="-honors-and-awards"></span> -->
 # 🎖 Honors and Awards
-- *2025.05* Presidential Personal Award (总裁个人奖), Huawei.
-- *2024.12* Future Star (明日之星), Huawei.
-- *2022.12* Suzhou Yucai Scholarship.
-- *2018.06* Outstanding Graduate of Henan Province.
-- *2018.06* Outstanding Graduate of Zhengzhou University.
-- *2017.12* Yisheng Scholarship.
-- *2015.10* National Encouragement Scholarship.
+- *2025.05*, Presidential Personal Award (总裁个人奖), Huawei.
+- *2024.12*, Future Star (明日之星), Huawei.
+- *2022.12*, Suzhou Yucai Scholarship.
+- *2018.06*, Outstanding Graduate of Henan Province.
+- *2018.06*, Outstanding Graduate of Zhengzhou University.
+- *2017.12*, Yisheng Scholarship.
+- *2015.10*, National Encouragement Scholarship.
 
 <!-- <span class="anchor" id="-educations"></span> -->
 # 📖 Educations
