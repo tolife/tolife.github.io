@@ -180,3 +180,13 @@ h1:before, .anchor:before {
         padding-left: 1.5em;
     }
 }
+
+/* Blue venue labels in publication lists */
+.page__content li>code.highlighter-rouge {
+    background-color: #03228d;
+    color: #fff;
+    padding: 0;
+    border: 0;
+    border-radius: 0;
+    box-shadow: none;
+}
