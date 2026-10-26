@@ -76,7 +76,7 @@ His research focuses on **storage systems, cloud computing and system for AI**, 
     <h3 class="publication-title"><a href="https://doi.org/10.1109/TC.2022.3191742">Towards High Performance and Efficient Memory Deduplication via Mixed Pages</a></h3>
     <p class="publication-authors"><strong>Lulu Yao</strong>, Yongkun Li, Fan Guo, Si Wu, Yinlong Xu, and John C. S. Lui.</p>
     <p class="publication-venue"><em>IEEE Transactions on Computers, 72(4): 926–940, 2023.</em> <span class="publication-rank">[CCF-A]</span></p>
-    <p class="publication-links"><a href="https://doi.org/10.1109/TC.2022.3191742">Paper</a><a href="https://www.cse.cuhk.edu.hk/~cslui/PUBLICATION/TC-23.pdf">PDF</a><a href="https://github.com/ustcadsl/SmartMD">Code (SmartMD)</a><a href="files/bibtex/smartmd.bib">BibTeX</a></p>
+    <p class="publication-links"><a href="https://doi.org/10.1109/TC.2022.3191742">Paper</a><a href="https://www.cse.cuhk.edu.hk/~cslui/PUBLICATION/TC-23.pdf">PDF</a><a href="https://github.com/ustcadsl/SmartMD">Code</a><a href="files/bibtex/smartmd.bib">BibTeX</a></p>
     <p class="publication-summary">SmartMD and SmartMD+ coordinate memory deduplication with selective large-page splitting and reconstruction.</p>
   </div>
 </div>
@@ -100,7 +100,7 @@ His research focuses on **storage systems, cloud computing and system for AI**, 
 </div>
 
 <!-- ## Other Publications -->
-- `ATC 2026 · Accepted` [SwiftBaton: Dependency-Aware Staged Reconstruction for Live Migration of Stateful Containers](https://sigops.org/s/conferences/atc/2026/accepted.html), Xianzhi Zhu, Gonggu Chen, Yancan Mao, Richard Ma, **Lulu Yao**, Yongkun Li, Yinlong Xu, John C. S. Lui
+- `ATC 2026` [SwiftBaton: Dependency-Aware Staged Reconstruction for Live Migration of Stateful Containers](https://sigops.org/s/conferences/atc/2026/accepted.html), Xianzhi Zhu, Gonggu Chen, Yancan Mao, Richard Ma, **Lulu Yao**, Yongkun Li, Yinlong Xu, John C. S. Lui
 - `ICPADS 2023` [CARE: A Cost-AwaRe Eviction Strategy for Improving Throughput in Cloud Environments](https://doi.org/10.1109/ICPADS60453.2023.00305), Xiyuan Liang†, **Lulu Yao†**, Si Wu, Yongkun Li, Yinlong Xu
 - `ICPP 2023` [On Optimizing Traffic Scheduling for Multi-replica Containerized Microservices](https://doi.org/10.1145/3605573.3605646), Xianzhi Zhu, Yongkun Li, **Lulu Yao**, Zhihao Qi, Yinlong Xu, Pengcheng Wang, Weiguang Wang, Xia Zhu [![](https://img.shields.io/github/stars/sirius8050/OptTraffic?style=social&label=Code+Stars)](https://github.com/sirius8050/OptTraffic)
 - `ICPP 2021` [Progressive Memory Adjustment with Performance Guarantee in Virtualized Systems](https://doi.org/10.1145/3472456.3472491), **Lulu Yao**, Yongkun Li, Jiawei Li, Weijie Wu, Yinlong Xu
