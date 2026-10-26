@@ -58,7 +58,7 @@ His research focuses on **storage systems, cloud computing and system for AI**, 
     <h3 class="publication-title"><a href="https://doi.org/10.1109/TC.2024.3375592">AdaptMD: Balancing Space and Performance in NUMA Architectures with Adaptive Memory Deduplication</a></h3>
     <p class="publication-authors"><strong>Lulu Yao</strong>, Yongkun Li, Patrick P. C. Lee, Xiaoyang Wang, and Yinlong Xu.</p>
     <p class="publication-venue"><em>IEEE Transactions on Computers, 73(6): 1588–1602, 2024.</em> <span class="publication-rank">[CCF-A]</span></p>
-    <p class="publication-links"><a href="https://doi.org/10.1109/TC.2024.3375592">Paper</a><a href="https://www.cse.cuhk.edu.hk/~pclee/www/pubs/tc24adaptmd.pdf">PDF</a><a href="files/bibtex/adaptmd.bib">BibTeX</a></p>
+    <p class="publication-links"><a href="https://doi.org/10.1109/TC.2024.3375592">Paper</a><a href="https://www.cse.cuhk.edu.hk/~pclee/www/pubs/tc24adaptmd.pdf">PDF</a><a href="https://zenodo.org/records/6620339">Code</a><a href="files/bibtex/adaptmd.bib">BibTeX</a></p>
     <p class="publication-summary">NUMA-aware memory deduplication that combines page hotness awareness and similarity-based application placement.</p>
   </div>
 </div>
