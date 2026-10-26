@@ -100,7 +100,7 @@ His research focuses on **storage systems, cloud computing and system for AI**, 
 </div>
 
 <!-- ## Other Publications -->
-- `ATC 2026` [SwiftBaton: Dependency-Aware Staged Reconstruction for Live Migration of Stateful Containers](https://sigops.org/s/conferences/atc/2026/accepted.html), Xianzhi Zhu, Gonggu Chen, Yancan Mao, Richard Ma, **Lulu Yao**, Yongkun Li, Yinlong Xu, John C. S. Lui
+- ``ATC 2026`` [SwiftBaton: Dependency-Aware Staged Reconstruction for Live Migration of Stateful Containers](https://sigops.org/s/conferences/atc/2026/accepted.html), Xianzhi Zhu, Gonggu Chen, Yancan Mao, Richard Ma, **Lulu Yao**, Yongkun Li, Yinlong Xu, John C. S. Lui
 - `ICPADS 2023` [CARE: A Cost-AwaRe Eviction Strategy for Improving Throughput in Cloud Environments](https://doi.org/10.1109/ICPADS60453.2023.00305), Xiyuan Liang†, **Lulu Yao†**, Si Wu, Yongkun Li, Yinlong Xu
 - `ICPP 2023` [On Optimizing Traffic Scheduling for Multi-replica Containerized Microservices](https://doi.org/10.1145/3605573.3605646), Xianzhi Zhu, Yongkun Li, **Lulu Yao**, Zhihao Qi, Yinlong Xu, Pengcheng Wang, Weiguang Wang, Xia Zhu [![](https://img.shields.io/github/stars/sirius8050/OptTraffic?style=social&label=Code+Stars)](https://github.com/sirius8050/OptTraffic)
 - `ICPP 2021` [Progressive Memory Adjustment with Performance Guarantee in Virtualized Systems](https://doi.org/10.1145/3472456.3472491), **Lulu Yao**, Yongkun Li, Jiawei Li, Weijie Wu, Yinlong Xu
